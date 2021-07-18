@@ -11,3 +11,5 @@ this is the hospital management system
   - Payment Bill
   - Discharge Patient
   - Manage Reports
+  - Print Report
+  
